@@ -22,12 +22,3 @@ https://yadi.sk/d/Ts-piLxJKiibqg
 Book minecraft python english 2
 https://yadi.sk/d/0MbMfg8_HIJHRQ
 
-# Java part
-
-Main course: 
-https://javarush.ru
-
-Book for modding
-https://yadi.sk/d/OLol0bBCajn6Bw
-
-Eclipse manual
