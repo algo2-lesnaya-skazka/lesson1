@@ -3,9 +3,18 @@
 Python 3
 https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
 
-pip?
+MCPI
+https://pypi.org/project/mcpi/
+pip install mcpi
 
-Editor?
+Editor
+1) https://www.sublimetext.com/
+vs 
+2) Eclipse + PyDev
+
+https://www.eclipse.org/downloads/
+
+http://study-java.ru/uroki-java/urok-3-znakomstvo-s-eclipse/
 
 Minecraft Server Spigot
 https://yadi.sk/d/d3GgH-p9P1nmdg
